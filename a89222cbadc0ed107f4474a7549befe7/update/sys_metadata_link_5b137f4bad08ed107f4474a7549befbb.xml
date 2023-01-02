@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>40d4f24fad04ed107f4474a7549beffe</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_cdltd_loaner_req_loaner_request">
+    <x_cdltd_loaner_req_loaner_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Antony Alldis">712150f4530360100999ddeeff7b1227</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="*BUD-IBM">53fdbc8437201000deeabfc8bcbe5d10</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot>ny</depot>
+        <description/>
+        <due_date/>
+        <end_date>2023-01-05 12:31:11</end_date>
+        <end_date_ess/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>cmdb_ci_computer</item_type>
+        <item_type_ess/>
+        <knowledge>false</knowledge>
+        <location/>
+        <location_to_be_used/>
+        <made_sla>true</made_sla>
+        <number>LNR002002</number>
+        <opened_at>2023-01-02 08:57:08</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</requested_for>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Test #2 - Open </short_description>
+        <sla_due/>
+        <start_date>2023-01-02 12:31:09</start_date>
+        <start_date_ess/>
+        <state>1</state>
+        <sys_class_name>x_cdltd_loaner_req_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-02 08:57:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40d4f24fad04ed107f4474a7549beffe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-02 12:31:15</sys_updated_on>
+        <task_effective_number>LNR002002</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_cdltd_loaner_req_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-02 13:29:19</sys_created_on>
+        <sys_id>5b137f4bad08ed107f4474a7549befbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR002002</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a89222cbadc0ed107f4474a7549befe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a89222cbadc0ed107f4474a7549befe7</sys_scope>
+        <sys_update_name>sys_metadata_link_5b137f4bad08ed107f4474a7549befbb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-02 13:29:19</sys_updated_on>
+        <tablename>x_cdltd_loaner_req_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
